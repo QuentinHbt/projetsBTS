@@ -1,0 +1,9 @@
+URL : http://gestage-qherbert.site40.net/Gestage/public/index.php 
+Login : admin
+mdp : admin
+
+
+Filezilla : 
+Hote : 31.170.160.80
+Identifiant : a5751282
+Mot de passe : gestage44
